@@ -1,3 +1,7 @@
+# Time Series Analysis: ARIMA and Inventory Planning
+
+![Walmart logo](https://imgur.com/SxSjgvk.png)
+
 ## Walmart Recruiting - Store Sales Forecasting
 
 Retrieved from [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
